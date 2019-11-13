@@ -1,0 +1,16 @@
+{
+  "name": "@4tw/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4teamwork/prettier-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4teamwork/prettier-config/issues"
+  },
+  "homepage": "https://github.com/4teamwork/prettier-config#readme"
+}
