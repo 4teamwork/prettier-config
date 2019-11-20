@@ -14,7 +14,6 @@ $ yarn add --dev @4tw/prettier-config
 
 ```json
 {
-  // ...
   "prettier": "@4tw/prettier-config"
 }
 ```
