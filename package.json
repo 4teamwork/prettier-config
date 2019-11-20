@@ -1,8 +1,12 @@
 {
   "name": "@4tw/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "postversion": "git push --tags && npm publish --access=public && git push",
+    "release": "yarn version"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/4teamwork/prettier-config.git"
